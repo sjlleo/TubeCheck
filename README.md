@@ -3,7 +3,7 @@
 
 ![image](https://user-images.githubusercontent.com/13616352/112748155-97658a00-8fec-11eb-82a2-1839781ce968.png)
 
-**New Feature:**
+## New Feature
 1. 支持双栈网络测试
 2. 显示当前网络到Youtube的连接模式
 3. 在`Google Global Cache`连接模式下，会提供ISP信息
