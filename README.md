@@ -14,10 +14,10 @@
 
 ## 使用方法
 
-支持IPv4网络的机器：
+* 支持IPv4网络的机器：
 
-`wget -O tubecheck https://github.com/sjlleo/TubeCheck/releases/download/1.0Beta/tubecheck_1.0beta_linux_amd64 && chmod +x tubecheck && clear && ./tubecheck`
+   `wget -O tubecheck https://github.com/sjlleo/TubeCheck/releases/download/1.0Beta/tubecheck_1.0beta_linux_amd64 && chmod +x tubecheck && clear && ./tubecheck`
 
-仅支持IPv6网络的机器：
+* 仅支持IPv6网络的机器：
 
-`wget -O tubecheck https://cdn.jsdelivr.net/gh/sjlleo/TubeCheck/CDN/tubecheck_1.0beta_linux_amd64 && chmod +x tubecheck && clear && ./tubecheck`
+   `wget -O tubecheck https://cdn.jsdelivr.net/gh/sjlleo/TubeCheck/CDN/tubecheck_1.0beta_linux_amd64 && chmod +x tubecheck && clear && ./tubecheck`
