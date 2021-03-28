@@ -18,6 +18,6 @@
 
    `wget -O tubecheck https://github.com/sjlleo/TubeCheck/releases/download/1.0Beta/tubecheck_1.0beta_linux_amd64 && chmod +x tubecheck && clear && ./tubecheck`
 
-* 仅支持IPv6网络的机器：
+* 支持IPv4或者IPv6网络的机器（通用选项）：
 
    `wget -O tubecheck https://cdn.jsdelivr.net/gh/sjlleo/TubeCheck/CDN/tubecheck_1.0beta_linux_amd64 && chmod +x tubecheck && clear && ./tubecheck`
